@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hammer Speedsculpt
+* source:	https://sketchfab.com/3d-models/hammer-speedsculpt-3ff3afeed7814305af4302df18cbec3c
+* author:	eric3dee (https://sketchfab.com/eric3dee)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hammer Speedsculpt" (https://sketchfab.com/3d-models/hammer-speedsculpt-3ff3afeed7814305af4302df18cbec3c) by eric3dee (https://sketchfab.com/eric3dee) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
